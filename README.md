@@ -29,7 +29,6 @@ This repository hosts a deep learning-based **brain tumor classification** app t
 - Download the trained model file (`hybrid_model_weights.pth`) from Google Drive:  
 [🔗 Download Model (Google Drive)]([https://drive.google.com/file/d/YOUR_MODEL_ID/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1rj-c3FG69cGCK0jYoEidhaMALz4cAVfR?q=sharedwith:public%20parent:1rj-c3FG69cGCK0jYoEidhaMALz4cAVfR%20sharedwith:CgJtZSgH)
 
-> ⚠️ Place the downloaded file inside the `model/` directory before running the app.
 
 ---
 
