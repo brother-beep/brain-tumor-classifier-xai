@@ -48,5 +48,16 @@ Grad-CAM highlights the image regions responsible for the prediction. It enhance
 ### ✅ 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-classifier-xai.git
+git clone https://github.com/brother-beep/brain-tumor-classifier-xai.git
 cd brain-tumor-classifier-xai
+
+### ✅ 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+### ✅ 2. Run streamlit app
+
+```bash
+streamlit run app.py
+
