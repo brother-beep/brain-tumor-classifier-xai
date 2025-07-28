@@ -43,7 +43,8 @@ A custom Convolutional Neural Network (CNN) was trained with:
 
 The trained model achieved 98.20% testing accuracy and saved as: `hybrid_model_weights.pth`.
 
-![Performance curve](brain-tumor-classifier-xai/Performance curve of CNN.png)
+![Performance curve](brain-tumor-classifier-xai/Performance%20curve%20of%20CNN.png)
+
 
 
 ---
