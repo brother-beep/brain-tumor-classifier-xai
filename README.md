@@ -17,10 +17,19 @@ This repository hosts a deep learning-based **brain tumor classification** app t
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset Used
 
-- **Name**: BRISC2025 Brain Tumor Dataset
-- **Content**: Labeled MRI images of 4 classes: Glioma, Meningioma, Pituitary, and No Tumor.
+- **BRaTS BRISC2025 Brain Tumor Dataset**
+- [📁 Download Dataset](https://www.kaggle.com/datasets/briscdataset/brisc2025/data)
+
+---
+
+## 🧠 Pretrained Model
+
+- Download the trained model file (`hybrid_model_weights.pth`) from Google Drive:  
+[🔗 Download Model (Google Drive)]([https://drive.google.com/file/d/YOUR_MODEL_ID/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1rj-c3FG69cGCK0jYoEidhaMALz4cAVfR?q=sharedwith:public%20parent:1rj-c3FG69cGCK0jYoEidhaMALz4cAVfR%20sharedwith:CgJtZSgH)
+
+> ⚠️ Place the downloaded file inside the `model/` directory before running the app.
 
 ---
 
@@ -33,7 +42,7 @@ A custom Convolutional Neural Network (CNN) was trained with:
 - Fully connected layers
 - Output: 4-class softmax
 
-The trained model is saved as: `model/hybrid_model_weights.pth`.
+The trained model achieved 98.20% testing accuracy and saved as: `hybrid_model_weights.pth`.
 
 ---
 
