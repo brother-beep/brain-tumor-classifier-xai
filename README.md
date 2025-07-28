@@ -43,6 +43,9 @@ A custom Convolutional Neural Network (CNN) was trained with:
 
 The trained model achieved 98.20% testing accuracy and saved as: `hybrid_model_weights.pth`.
 
+![Grad-CAM Example](assets/gradcam_sample.png)
+
+
 ---
 
 ## 💡 Explainability with Grad-CAM
